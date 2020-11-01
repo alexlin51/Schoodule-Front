@@ -1,0 +1,159 @@
+.entry{
+    display: flex;
+    flex: start;
+    padding-bottom: 5px;
+}
+
+.labels{
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    padding-right: 5px;
+}
+
+.rlabels{
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    padding-right: 13px;
+}
+
+.genericb{
+    width: 60%;
+    padding: 0 8px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+
+.notebox{
+    width: 100%;
+    padding: 0 8px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+
+.btwn{
+    padding: 0 10px;
+}
+
+.timeBox{
+    border-radius: 3px;
+    background-color: white;
+}
+
+.timeBoxError{
+    background-color: #FFCCCB;
+}
+
+.colorBox{
+    background-color: white;
+    width: 60%;
+    text-align: center;
+    padding: 5px 5px;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 1px;
+}
+
+.pBox{
+    border-radius: 5px;
+    line-height: 10px;
+    background-color: rgb(192, 228, 240);
+    padding: 10px 8px;
+    padding-top: 0px;
+    margin: 3px 0;
+    margin-right: 8px;
+}
+
+.pBox2{
+    display: grid;
+    border-radius: 5px;
+    line-height: 15px;
+    background-color: rgb(192, 228, 240);
+    padding: 10px 8px;
+    padding-top: 0px;
+    margin: 3px 0;
+    margin-right: 8px;
+}
+
+.pBoxLab{
+    padding-right: 5px;
+    padding: 7px 0;
+    padding-top: 12px;
+    margin: 0;
+}
+
+.miniInput{
+    width: 100%;
+    border-radius: 3px;
+    border-width: 1px;
+    padding: 2px 6px;
+}
+
+.ohSubBox{
+    padding: 6px;
+    margin: 3px;
+    background-color:rgb(229, 235, 241);
+    border-radius: 4px;
+    padding-top: 0;
+    margin-top: 5px;
+}
+
+.miniInput2{
+    width: 100%;
+    border-radius: 3px;
+    border-width: 1px;
+    padding: 2px 8px;
+    line-height: 20px;
+}
+
+.extra-bottompadding{
+    padding-bottom: 10px;
+}
+
+.plus-wrap{
+    font-size: 40px;
+}
+
+.plus{
+    padding: 0;
+    margin: 0;
+}
+
+.plus:hover{
+    transform: scale(1.1);
+}
+
+.plus-wrap2{
+    font-size: 30px;
+}
+
+.plus2{
+    padding: 0;
+    margin: 3px;
+    color:rgb(113, 113, 219);
+}
+
+.plus2:hover{
+    transform: scale(1.1);
+    color: rgb(71, 71, 207);
+}
+
+.deleteOh{
+    width: 60%;
+    margin-left: 20%;
+    border-width: 1px;
+    margin-top: 13px;
+    height: 25px;
+    background-color: rgb(252, 227, 227);
+    border-radius: 5px;
+}
+
+.deleteOh:hover{
+    background-color: rgb(221, 116, 116);
+}
+
+.mid:hover{
+    background-color: #77a7c7;
+}
+

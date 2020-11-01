@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Sansita+Swashed:wght@700&display=swap");
+
+/* font-family: 'Lato', sans-serif;
+font-family: 'Sansita Swashed', cursive; */
+
+.topper{
+    margin: auto;
+    position: relative;
+    text-align: center;
+    margin-top: 70px;
+    color: black;
+}
+
+.text{
+    font-size: clamp(60px, 13vw, 140px);
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.subText{
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    font-size: clamp(20px, 5vw, 50px);
+}
+
+.container{
+    margin-top: 30px;
+    width: 340px;
+    background-color: white;
+    padding: 25px 20px;
+    border-radius: 9px;
+}
+
+.myButton{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.spacing{
+    margin-bottom: 8px;
+}
+
+.error{
+    color: red;
+}
+
+.errorSmall{
+    color: red;
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+}

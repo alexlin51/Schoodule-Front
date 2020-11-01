@@ -1,0 +1,111 @@
+.containerabout{
+    width: 74%;
+    background-color: white;
+    border-radius: 5px;
+    margin: 40px auto;
+    margin-top: 70px;
+    padding: 15px 20px;
+    display: grid;
+    color: black;
+}
+
+.logoPic{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.hooker{
+    font-size: 23px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.row{
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 40px 10%;
+}
+
+.pic1{
+    width: 80%;
+}
+
+.p1{
+    margin-left: 3%;
+}
+
+.btext{
+    font-size: 20px;
+    color: black;
+}
+
+.textbox{
+    padding: 10% 10px;
+    line-height: 2.3rem;
+}
+
+.bardiv{
+    background-color: grey;
+    height: 1px;
+    width: 86%;
+    margin-left: 8%;
+    margin-top: 30px;
+}
+
+.det2{
+    margin-left: 17%;
+}
+
+.te2{
+    margin-left: 5%;
+    padding-top: 0;
+}
+
+.p3{
+    margin-left: 5%;
+}
+
+.t3{
+    padding-top: 5%;
+    line-height: 2.2rem;
+}
+
+.r3{
+    margin-top: 1%;
+}
+
+.redme{
+    color: red;
+}
+
+.notice{
+    padding: 20px 10%;
+    padding-top: 40px;
+}
+
+.larger{
+    width: 88%;
+    margin: 20px auto;
+}
+
+.howText{
+    padding-top: 30px;
+    font-size: 19px;
+    width: 86%;
+    margin: auto;
+}
+
+.emp{
+    color: red;
+}
+
+.midend{
+    font-size: 22px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.guidePic{
+    margin-top: 15px;
+}

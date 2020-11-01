@@ -1,0 +1,40 @@
+.CoursesContainer{
+    margin: auto;
+    width: 80%;
+    margin-top: 100px;
+}
+
+.Cheader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Ctitle{
+    font-size: clamp(40px, 6.5vw, 60px);
+    padding-left: 2vw;
+    color: black;
+    font-weight: 600;
+}
+
+.addCourse{
+    margin-right: 2vw;
+    padding: 0 17px;
+    height: 50px;
+    border: none;
+    border-radius: 7px;
+    background-color: #a3c0d4;
+}
+
+.addCourse:hover{
+    background-color: #ffa500;
+}
+
+.bar{
+    height: 3px;
+    background-color: black;
+    margin-top: -5px;
+    width: 98%;
+    margin: auto;
+    margin-bottom: 20px;
+}

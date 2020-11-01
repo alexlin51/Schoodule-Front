@@ -1,0 +1,91 @@
+.lbox{
+    height: 10vh;
+    width: 25vw;
+    background-color: whitesmoke;
+    border-radius: 7px;
+    margin-top: 35vh;
+    margin-left: 40vw;
+    text-align: center;
+    position: relative;
+}
+
+.ltext{
+    padding-top: 2.3vh;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.ccontainer{
+   width: 80%;
+   background-color: whitesmoke;
+   border-radius: 5px;
+   margin: 40px auto;
+   margin-top: 80px;
+   padding: 15px 20px;
+}
+
+.textb{
+    padding: 0 5px;
+    margin: 0;
+    font-size: 18px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.divb{
+    height: 2px;
+    width: 100%;
+    background-color: black;
+    margin-bottom: 10px;;
+}
+
+.ctext{
+    padding-left: 15px;
+}
+
+.high-box{
+    display: flex;
+    width: 100%;
+    
+}
+
+.lnotes{
+    display: flex;
+}
+
+.bottomButtons{
+    text-align: center;
+}
+
+.buutt{
+    font-size: 20px;
+    padding: 8px 20px;
+    margin: 0 20px;
+    border-radius: 10px;
+    background-color: #a3c0d4;
+    border: none;
+    width: 20vw;
+    margin-bottom: 50px;
+}
+
+.buutt:hover{
+    background-color: #ffa500;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.topButton{
+    margin-right: 15px;
+    padding: 12px 15px;
+    height: 80%;
+    border-radius: 5px;
+    background-color: #a3c0d4;
+    border-width: 0px;
+}
+
+.topButton:hover{
+    background-color: #ffa500;
+}

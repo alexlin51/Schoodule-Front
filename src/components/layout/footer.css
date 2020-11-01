@@ -1,0 +1,29 @@
+.foot{
+    position: fixed;
+    right: 2vw;
+    bottom: 1.9vw;
+}
+
+.round{
+    background-color: white;
+    padding: 8px 11px;
+    border-radius: 30px;
+    transition-duration: 0.4s;
+}
+
+.feed{
+    transform: translateY(3px);
+    padding: 0;
+    font-size: 18px;
+    transition-duration: 0.4s;
+}
+
+.round:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.feedback{
+    padding-left: 5px;
+}
+

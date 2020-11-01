@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Sansita+Swashed:wght@700&display=swap");
+
+
+.head{
+    padding: 15px;
+    height: 30px;
+}
+
+.button{
+    padding: 10px 15px;
+    margin-right: 15px;
+    border-radius: 7px;
+    border: none;
+    background-color: whitesmoke;
+    outline: none;
+}
+
+.right{
+    float: right;
+}
+
+.logo{
+    float: left;
+    left: 0;
+    color: white;
+    padding: 0;
+    margin: 0;
+    padding-left: 2vw;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 2rem;
+    transition-duration: 0.35s;
+}
+
+.logo:hover{
+    color: #ffa500;
+    transform: scale(1.2);
+}
+
+.button:hover{
+    background-color: lightgray
+}
+
+.split{
+    display: flex;
+    justify-content: space-between;
+}
+
+.who{
+    margin-right: 20px;
+    /* background-color: whitesmoke; */
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: black;
+    padding-bottom: 12px;
+}
+
+.who:hover{
+    text-decoration: none;
+    background-color: rgb(241, 188, 89);
+    cursor: pointer;
+}
+
+.gtext{
+    padding-top: 25px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.guidePic{
+    margin: 0 auto;
+}
+
+.linebar{
+    width: 85%;
+    margin:auto;
+    height: 1px;
+    background-color: grey;
+    margin-top: 10px;
+}
+
+.clamp{
+    width: 80%;
+    margin-left: 10%;
+}
